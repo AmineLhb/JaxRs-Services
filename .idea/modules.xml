@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Communicating_Two_Services_Using_JAXRS.iml" filepath="$PROJECT_DIR$/.idea/Communicating_Two_Services_Using_JAXRS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP2_JAX_RS/TP2_JAX_RS.iml" filepath="$PROJECT_DIR$/TP2_JAX_RS/TP2_JAX_RS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP2_JAX_RS_GestionAbsence/TP2_JAX_RS_GestionAbsence.iml" filepath="$PROJECT_DIR$/TP2_JAX_RS_GestionAbsence/TP2_JAX_RS_GestionAbsence.iml" />
+    </modules>
+  </component>
+</project>
